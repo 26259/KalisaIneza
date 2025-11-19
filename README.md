@@ -66,9 +66,3 @@ java -cp out _26259.q6.Payroll_Management
 - Ensure the `package` declaration at the top of each `.java` file matches the directory structure under `src`.
 - If you see `NoClassDefFoundError` or `ClassNotFoundException`, confirm that you used `-d out` when compiling and that `-cp out` is provided when running.
 
-## Next steps
-
-- I can fix package declarations and move files into matching directories automatically — tell me if you'd like me to update the Java files and recompile them.
-
----
-File: `_26259/README.md` — updated with clearer instructions and troubleshooting tips.
